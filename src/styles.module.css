@@ -7,3 +7,36 @@
   font-size: 2em;
   text-align: center;
 }
+
+
+.primary{
+  background-color: #1a7db6;
+  color: #fff;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: 0px;
+}
+
+.secondary{
+  background-color: #585858;
+  color: #ffffff;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: 0px;
+}
+
+.danger{
+  background-color: #8f231c;
+  color: #fff;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: 0px;
+}
+
+.warn{
+  background-color: #f2b705;
+  color: #fff;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: 0px;
+}
